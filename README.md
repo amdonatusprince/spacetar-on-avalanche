@@ -64,7 +64,7 @@ Spacetar is a groundbreaking decentralized application (dApp) that redefines the
 Step into a seamlessly integrated dashboard that serves as your portal to the Spacetar universe. This comprehensive hub provides a bird's-eye view of all essential elements. From here, you can effortlessly access every facet of Spacetar's transformative capabilities, making your journey smooth and intuitive.
 
 ### Help Rooms: Connect and Engage
-![Spacetar Chat](https://github.com/amdonatusprince/spacetar-on-avalanche/blob/main/src/assets/chat%20room.png)
+![Spacetar Chat](https://github.com/amdonatusprince/spacetar-on-avalanche/blob/main/src/assets/chat-room.png)
 
 Forge connections and engage in vibrant conversations within Spacetar's unique Help Rooms. These dynamic group chat spaces offer an arena where individuals can join ongoing discussions or initiate their dialogues. 
 Experience the power of shared experiences as you interact, connect, and find solace in a community that understands and supports you.
