@@ -1,6 +1,6 @@
 # Spacetar - A Decentralized Community Empowering Mental Well-Being
 
-![Spacetar Homepage](https://github.com/Spacestar-Celo/spacestar-on-celo/blob/main/src/assets/homepage.png)
+![Spacetar Homepage](https://github.com/amdonatusprince/spacetar-on-avalanche/blob/main/src/assets/dashboard-1.png)
 
 
 ## Inspiration
@@ -50,7 +50,7 @@ Your default web browser should automatically open and display the Spacetar dApp
 Now you can explore the various features of the Spacetar dApp locally, including joining Help Rooms, earning reward tokens, contributing to the community, and experiencing a transformative journey towards improved mental well-being.
 
 ## Using Spacetar on the Live Website
-To access and use the Spacetar decentralized application on the live website, simply visit https://spacestar-on-avalanche.vercel.app/
+To access and use the Spacetar decentralized application on the live website, simply visit https://spacestar-on-avalanche.vercel.app/.
 Here, you can seamlessly engage with all the empowering features that Spacetar has to offer. Join Help Rooms, earn reward tokens, contribute to the community, and embark on a meaningful journey towards enhanced mental well-being.
 
 
@@ -59,20 +59,19 @@ Spacetar is a groundbreaking decentralized application (dApp) that redefines the
 
 
 ### Holistic Dashboard Experience
-![Spacetar Dashboard](https://github.com/Spacestar-Celo/spacestar-on-celo/blob/main/src/assets/dashboard-1.png)
+![Spacetar Dashboard](https://github.com/amdonatusprince/spacetar-on-avalanche/blob/main/src/assets/homepage.png)
 
 Step into a seamlessly integrated dashboard that serves as your portal to the Spacetar universe. This comprehensive hub provides a bird's-eye view of all essential elements. From here, you can effortlessly access every facet of Spacetar's transformative capabilities, making your journey smooth and intuitive.
 
 ### Help Rooms: Connect and Engage
-![Spacetar Chat](https://github.com/Spacestar-Celo/spacestar-on-celo/blob/main/src/assets/chat%20room.png)
+![Spacetar Chat](https://github.com/amdonatusprince/spacetar-on-avalanche/blob/main/src/assets/chat%20room.png)
 
 Forge connections and engage in vibrant conversations within Spacetar's unique Help Rooms. These dynamic group chat spaces offer an arena where individuals can join ongoing discussions or initiate their dialogues. 
 Experience the power of shared experiences as you interact, connect, and find solace in a community that understands and supports you.
 
 ### Reward Points: Claim Your Empowerment
 
-![Spacetar Claims](https://github.com/Spacestar-Celo/spacestar-on-celo/blob/main/src/assets/claim-page.png)
-
+![Spacetar Claims](https://github.com/amdonatusprince/spacetar-on-avalanche/blob/main/src/assets/claim-page.png)
 
 
 Your active participation in the Spacetar community doesn't go unnoticed. Navigate to the Reward Points section to witness the tangible impact of your engagement. Here, you can view the reward tokens you've earned, a testament to your contributions. 
@@ -82,12 +81,12 @@ The Spacetar ecosystem empowers users to accumulate and stake their earned rewar
 Harness these tokens to strengthen your connection with the Spacetar ecosystem and amplify your well-being journey.
 
 ### Empower through Contribution: Donate to Fuel Progress
-![Spacetar Donate](https://github.com/Spacestar-Celo/spacestar-on-celo/blob/main/src/assets/donate.png)
+![Spacetar Donate](https://github.com/amdonatusprince/spacetar-on-avalanche/blob/main/src/assets/donate.png)
 
 Spacetar isn't just a dApp; it's a shared vision of empowerment and support. Immerse yourself in the Donate section, where you have the opportunity to contribute to the growth and sustenance of the Spacetar community. By supporting this collective endeavor, you actively shape the future of mental health empowerment.
 
 ### Seamless Departures: Exit Rooms and Disconnect
-![Spacetar Exit](https://github.com/Spacestar-Celo/spacestar-on-celo/blob/main/src/assets/exit-room.png)
+![Spacetar Exit](https://github.com/amdonatusprince/spacetar-on-avalanche/blob/main/src/assets/exit-room.png)
 
 Exercise autonomy over your Spacetar experience with the Exit Room feature. When you feel your time in a Help Room has reached its conclusion, gracefully exit the conversation without hesitation. 
 
@@ -100,7 +99,8 @@ Through these dynamic features, Spacetar seeks to break down barriers, challenge
 The development journey of Spacetar can be distilled into several pivotal stages:
 
 ### Smart Contract Creation: 
-The foundation of Spacetar's decentralized ecosystem lies in its smart contracts. We meticulously crafted and deployed smart contracts on the CELO blockchain, ensuring the security and integrity of the platform. The verified contract address can be found here and the in-depth documentation for the contract was created using DeCipher tool by Bunzz
+The foundation of Spacetar's decentralized ecosystem lies in its smart contracts. We meticulously crafted and deployed smart contracts on the Avalanche blockchain, ensuring the security and integrity of the platform. The verified contract address can be found here 
+ https://testnet.snowtrace.io/address/0x4838854e5150e4345fb4ae837e9fcca40d51f3fe#code
 
 ### Intuitive User Interface: 
 The design of the user interface was paramount in fostering a user-friendly and inviting experience. Employing Celo Composer, React.js, and other cutting-edge technologies, we fashioned an interface that facilitates seamless interactions with the underlying blockchain infrastructure.
