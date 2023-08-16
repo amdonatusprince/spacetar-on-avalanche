@@ -4,11 +4,11 @@ import DonateDetails from "./DonateDetails";
 import usdc from "../assets/usdc.png"
 import tether from "../assets/tether.png"
 import ethereum from "../assets/ethereum.png"
-import celo from "../assets/celo.png"
+import avax from "../assets/avax.png"
 
 function Donate() {
-  const [cryptoCoin, setCryptoCoin] = useState("Celo");
-  const [cryptoShort, setCrpto] = useState("CELO");
+  const [cryptoCoin, setCryptoCoin] = useState("AVAX");
+  const [cryptoShort, setCrpto] = useState("AVAX");
   const [active, setActive] = useState(true);
   const [activeTab, setActiveTab] = useState(1);
 
@@ -25,16 +25,16 @@ function Donate() {
         <div style={{ display: 'flex',  justifyContent: 'center' }}>
           <DonateButton
             onClick={() => {
-              setCryptoCoin("Celo");
-              setCrpto("CELO");
+              setCryptoCoin("AVAX");
+              setCrpto("AVAX");
               setActive(true);
               handleTabClick(1);
             }}
           >
-            <img src={celo}
+            <img src={avax}
            alt="" 
             style={{
-            width: '18%',
+            width: '28%',
           }}
           />
           </DonateButton>
